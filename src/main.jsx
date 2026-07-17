@@ -198,8 +198,8 @@ function App() {
             <h2>THE CEO DOESN'T<br />BUILD ALONE.</h2>
           </div>
           <div className="community-actions">
-            <a href="https://x.com/Duckceo_sol" className="social-card"><Twitter /> <span><strong>X / Twitter</strong><small>Add your official link</small></span><ExternalLink /></a>
-            <a href="https://t.me/duckceo_meme" className="social-card"><Send /> <span><strong>Telegram</strong><small>Add your official link</small></span><ExternalLink /></a>
+            <a href="https://x.com/Duckceo_sol" className="social-card"><Twitter /> <span><strong>X / Twitter</strong><small></small></span><ExternalLink /></a>
+            <a href="https://t.me/duckceo_meme" className="social-card"><Send /> <span><strong>Telegram</strong><small></small></span><ExternalLink /></a>
           </div>
         </section>
       </main>
