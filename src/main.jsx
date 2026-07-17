@@ -146,7 +146,7 @@ function App() {
             <p>Final values will be published before launch. Never publish details that you cannot prove on-chain.</p>
           </div>
           <div className="token-grid">
-            <article><span>Total Supply</span><strong>SOON</strong><small>Final supply announced before launch</small></article>
+            <article><span>Total Supply</span><strong>1 000 000 000</strong><small>Final supply announced before launch</small></article>
             <article><span>Liquidity</span><strong>SOON</strong><small>Public launch details and transaction links</small></article>
             <article><span>Buy / Sell Tax</span><strong>0%</strong><small>Subject to final token configuration</small></article>
             <article><span>Contract</span><strong>SOON</strong><small>Always verify the official address</small></article>
