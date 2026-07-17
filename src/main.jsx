@@ -198,15 +198,15 @@ function App() {
             <h2>THE CEO DOESN'T<br />BUILD ALONE.</h2>
           </div>
           <div className="community-actions">
-            <a href="#" className="social-card"><Twitter /> <span><strong>X / Twitter</strong><small>Add your official link</small></span><ExternalLink /></a>
-            <a href="#" className="social-card"><Send /> <span><strong>Telegram</strong><small>Add your official link</small></span><ExternalLink /></a>
+            <a href="https://x.com/Duckceo_sol" className="social-card"><Twitter /> <span><strong>X / Twitter</strong><small>Add your official link</small></span><ExternalLink /></a>
+            <a href="https://t.me/duckceo_meme" className="social-card"><Send /> <span><strong>Telegram</strong><small>Add your official link</small></span><ExternalLink /></a>
           </div>
         </section>
       </main>
 
       <footer>
         <div className="footer-brand"><img src="/duckceo-logo.png" alt="" /><span>DUCK CEO</span></div>
-        <p>Entertainment-first meme project. Nothing on this website is financial advice.</p>
+        <p></p>
         <span>© 2026 Duck CEO</span>
       </footer>
     </div>
